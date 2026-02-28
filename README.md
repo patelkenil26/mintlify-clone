@@ -49,7 +49,7 @@ Follow these steps to view the project locally:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/KenilPatel/mintlify-clone.git](https://github.com/KenilPatel/mintlify-clone.git)
+    git clone [https://github.com/patelkenil26/mintlify-clone.git](https://github.com/patelkenil26/mintlify-clone.git)
     ```
 
 2.  **Navigate to Directory:**
@@ -61,7 +61,7 @@ Follow these steps to view the project locally:
 
 👤 Author
 
-**Kenil Patel** GitHub: [@KenilPatel](https://github.com/KenilPatel)  
+**Kenil Patel** GitHub: [@KenilPatel](https://github.com/patelkenil26)  
 Batch: Web Dev Cohort 2026
 
 © 2026 Kenil Patel. All rights reserved.
